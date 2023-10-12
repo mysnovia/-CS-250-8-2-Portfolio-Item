@@ -1,1 +1,4 @@
 # -CS-250-8-2-Portfolio-Item
+
+##Interpreting User Needs and Implementing into a Program:
+Interpreting user needs involves a deep understanding of the end-users' requirements, preferences, and pain points. Creating "user stories" serves as a powerful tool in this process. User stories are concise narratives that articulate specific functionalities from the user's perspective. By crafting user stories, I can encapsulate user requirements in a format that is both comprehensive and easily digestible. Each user story becomes a building block for the development team, providing a clear direction for implementation. It helps in translating abstract user needs into actionable tasks, fostering effective communication between stakeholders and the development team. The user stories act as a bridge, ensuring that the final program not only meets the technical specifications but aligns closely with the end-users' expectations and experiences.
